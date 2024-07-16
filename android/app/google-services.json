@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997418615221",
+    "project_id": "insta-tut-99c40",
+    "storage_bucket": "insta-tut-99c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997418615221:android:ac9689d8f7a86f412b59fc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85rhWJTikxnAacKsZKsuLwIw6iYuhfYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
